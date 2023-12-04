@@ -6,4 +6,4 @@ Path of Tools is all about the creation of tools for the game Path of Exile. Thi
 We're currently still very early in development, so there is definately not much to offer, but I hope that in the future this Organization and all it's Repositories, will have quite an impact on the PoE community.
 
 ## Contribution Guidelines
-If you're interested in contributing please do check out our Contribution Guidelines before doing so. ❤️
+If you're interested in contributing please do check out our [Contribution Guidelines](https://github.com/Path-of-Tools/.github/blob/master/CONTRIBUTING.md) before doing so. ❤️
